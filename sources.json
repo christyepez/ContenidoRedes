@@ -1,0 +1,9 @@
+{
+  "rss_feeds": [
+    "https://aws.amazon.com/blogs/architecture/feed/",
+    "https://azure.microsoft.com/en-us/blog/topics/architecture/feed/",
+    "https://cloud.google.com/blog/topics/developers-practitioners/rss",
+    "https://www.databricks.com/blog/category/engineering/feed",
+    "https://github.blog/feed/"
+  ]
+}
